@@ -20,10 +20,15 @@ application.properties:
 	Description:
 	 Contains input parameters:
 		1. input.filename : input JSON file
+
 		2. detailed.output.filename: filepath + file name of detailed report
+		
 		3. summary.output.filename: filepath + file name of summary report
+		
 		4. summary.input.columns: comma separated name of columns you want in the summary report
+		
 		5. detailed.input.columns: comma separated name of columns you want in the detailed report
+		
 
 DetailedReport.java
 SummaryReport.java
