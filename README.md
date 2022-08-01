@@ -1,5 +1,11 @@
-Readme
-This project is a report generator app which takes json as input and gives a csv file as output.
+
+This project is a report generator app which takes json as input and gives a csv file as output. It reads data from a json file (which is used as a substitute for a database) and provides two reports as csv files based on the columns provided. 
+
+	Summary Report -  Gives a summarized output of the data. (Average , Count, etc)
+
+	Detailed Report - Gives detailed row by row data.
+
+
 
 #Install 2 jars - opencsv-5.6.jar and json-simple-1.1.jar and add it to the classpath
 
