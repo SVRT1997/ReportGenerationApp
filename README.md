@@ -15,9 +15,13 @@ Give the following inputs in application.properties for the program to run
 filepath: demo/src/Properties/application.properties
 
 input.filename : input JSON file 
+
 detailed.output.filename: filepath + file name of detailed report
+
 summary.output.filename: filepath + file name of summary report
+
 summary.input.columns: comma separated name of columns you want in the summary report
+
 detailed.input.columns: comma separated name of columns you want in the detailed report
 
 
